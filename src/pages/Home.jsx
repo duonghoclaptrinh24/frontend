@@ -10,7 +10,7 @@ import Subtitle from "./../shared/Subtitle";
 
 import SearchBar from "../shared/SeachBar";
 import ServiceList from "../services/ServiceList";
-import FeaturedCalligraphyList from "../components/Featured-calligraphy/FeaturedCalligraphyList";
+import FeaturedCaligraphyList from "../components/Featured-caligraphy/FeaturedCaligraphyList";
 
 const Home = () =>  {
   return <>
@@ -67,19 +67,19 @@ const Home = () =>  {
          </Row>
       </Container>
    </section>
-   {/* ========= featured calligraphy section start =========== */}
+   {/* ========= featured caligraphy section start =========== */}
     <section>
       <Container>
          <Row>
             <Col lg='12' className="mb-5">
                <Subtitle subtitle={"Explore"}/>
-               <h2 className="featured__calligraphy-title">Our featured calligraphy works</h2>
+               <h2 className="featured__caligraphy-title">Our featured caligraphy works</h2>
             </Col>
-            <FeaturedCalligraphyList/>
+            <FeaturedCaligraphyList/>
          </Row>
       </Container>
     </section>
-   {/* ========= featured calligraphy section end =========== */}
+   {/* ========= featured caligraphy section end =========== */}
   </>
 };
 

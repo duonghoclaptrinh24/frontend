@@ -8,6 +8,8 @@ import caligraphyImg07 from "../images/caligraphy-img07.jpg";
 import caligraphyImg08 from "../images/caligraphy-img08.jpg";
 import caligraphyImg09 from "../images/caligraphy-img09.jpg";
 import caligraphyImg10 from "../images/caligraphy-img10.jpg";
+import caligraphyImg11 from "../images/caligraphy-img11.jpg";
+import caligraphyImg12 from "../images/caligraphy-img12.jpg";
 
 const caligraphy = [
   {
@@ -171,6 +173,40 @@ const caligraphy = [
     ],
     avgRating: 4.5,
     photo: caligraphyImg10,
+    featured: false,
+  },
+  {
+    id: "12",
+    title: "Thư Pháp: Tri Ân",
+    author: "Trần Văn Hòa",
+    price: 179000,
+    maxGroupSize: 8,
+    desc: "Thể hiện lòng biết ơn và trân trọng những giá trị xưa cũ, đạo lý làm người.",
+    reviews: [
+      {
+        name: "jhon doe",
+        rating: 4.6,
+      },
+    ],
+    avgRating: 4.5,
+    photo: caligraphyImg11,
+    featured: false,
+  },
+  {
+    id: "12",
+    title: "Thư Pháp: Tri Ân",
+    author: "Trần Văn Hòa",
+    price: 179000,
+    maxGroupSize: 8,
+    desc: "Thể hiện lòng biết ơn và trân trọng những giá trị xưa cũ, đạo lý làm người.",
+    reviews: [
+      {
+        name: "jhon doe",
+        rating: 4.6,
+      },
+    ],
+    avgRating: 4.5,
+    photo: caligraphyImg12,
     featured: false,
   },
 ];

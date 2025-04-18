@@ -119,4 +119,28 @@
     "photo": "/caligraphy-images/caligraphy-img10",
     "featured": true
   }
+  {
+    "title": "Thư Pháp: Tri Ân",
+    "city": "Đà Lạt",
+    "address": "Hồ Xuân Hương",
+    "distance": 18,
+    "price": 179,
+    "maxGroupSize": 1,
+    "desc": "Tác phẩm truyền tải thông điệp tri ân và lòng biết ơn với những giá trị cuộc sống.",
+    "reviews": [],
+    "photo": "/caligraphy-images/caligraphy-img11",
+    "featured": true
+  }
+  {
+    "title": "Thư Pháp: Tri Ân",
+    "city": "Đà Lạt",
+    "address": "Hồ Xuân Hương",
+    "distance": 18,
+    "price": 179,
+    "maxGroupSize": 1,
+    "desc": "Tác phẩm truyền tải thông điệp tri ân và lòng biết ơn với những giá trị cuộc sống.",
+    "reviews": [],
+    "photo": "/caligraphy-images/caligraphy-img12",
+    "featured": true
+  }
 ]
